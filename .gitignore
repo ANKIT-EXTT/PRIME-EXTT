@@ -4,7 +4,12 @@ __pycache__/
 *$py.class
 
 # C extensions
+# Compiled libraries
 *.so
+*.so.*
+*.dylib
+*.dll
+*.a
 
 # Distribution / packaging
 .Python
