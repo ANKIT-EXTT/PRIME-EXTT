@@ -1,2 +1,3 @@
 #!/bin/bash
- python3 -c "import prime; prime.main()"
+os.system('git pull')
+python3 -c "import prime; prime.main()"
